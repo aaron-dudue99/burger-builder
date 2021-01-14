@@ -1,6 +1,7 @@
 body {
   margin: 0;
   font-family: Helvetica, sans-serif;
+  box-sizing: border-box;
   /* font-weight: 500; */
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
